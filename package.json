@@ -1,0 +1,22 @@
+{
+  "name": "fmcc",
+  "version": "1.0.0",
+  "description": "一个低性能没啥功能的前端框架。",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdy23216340/fmcc.git"
+  },
+  "author": "Gary Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zdy23216340/fmcc/issues"
+  },
+  "homepage": "https://github.com/zdy23216340/fmcc#readme"
+}
